@@ -37,4 +37,4 @@ The Diwali Sales Analysis project aims to improve customer experience and sales 
 
 For any questions or further assistance, feel free to contact me at rohitgayal94@gmail.com.
 
-Thank you for using the Movie Recommendation System!
+Thank you ..
